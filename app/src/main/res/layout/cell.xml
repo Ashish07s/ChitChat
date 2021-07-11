@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    android:textSize="20.0sp"
+    android:background="@color/colorLight"
+    android:padding="5.0dip"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:onClick="guess"
+    android:fontFamily="serif-monospace"
+    android:textColor="@color/colorBlack"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
